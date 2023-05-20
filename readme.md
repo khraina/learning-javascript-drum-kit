@@ -3,3 +3,6 @@ The website is used to visualize the drum kit, when each key is pressed it's cor
 
 Then, the after the js script is executed it's border changes to yellow and it's scaled
 ![Alt text](Screenshot%202023-05-20%20222110.png)
+
+Deployment link 
+https://khraina.github.io/learning-javascript-drum-kit/
